@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false, 
+  apiKey: 'pk.eyJ1IjoidGhhbWFyYW9mYXJyZWwiLCJhIjoiY2wyMnN5bG5jMG45MTNrbzUzZnhzNGFkeiJ9.HsOf4jWskl-mU25ezeLRpg' //1:08 min https://www.youtube.com/watch?v=u0HJT_CILh8&list=PLCKuOXG0bPi0RHirEQB7GJgpfW-Q5m-Xu&index=13&ab_channel=FernandoHerrera
+                                                                                                               // implementacon de la api de mapbox (acces tocken ecxtraido de postman) para su utilizacon
 };
 
 /*
